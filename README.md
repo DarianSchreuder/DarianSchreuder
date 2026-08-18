@@ -4,6 +4,7 @@ Im a student of Computer Science and Mathematics at North-West University
 
 Im interested in GNU Linux, learning about software development and web Development
 
+https://www.boot.dev/u/muaddibsrat
 
 <!---
 DarianSchreuder/DarianSchreuder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
